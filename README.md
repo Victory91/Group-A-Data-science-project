@@ -74,7 +74,6 @@ MIT License
 
 **Acknowledgments:**
 
-- Thanks for your tutoring and mentorship
 - Thanks https://github.com/favour-me-art for your collaboration
 - Thanks to https://github.com/LexCie10 for your collaboration
 - Thanks to https://github.com/trojan-1 for your collaboration
